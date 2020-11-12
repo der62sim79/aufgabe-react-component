@@ -1,0 +1,12 @@
+.card{
+    background-color: crimson;
+    min-height: 50px;
+    width: 200px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    
+}
+
+.card:hover{
+    cursor: pointer;
+}
